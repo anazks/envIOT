@@ -1,0 +1,29 @@
+.navBar{
+    width: 90%;
+    height: 100px;
+    background-color: rgb(243, 248, 248);
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.navBar DIV{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.Btn1{
+    width: 150px;
+    height: 50px;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    color: black;
+    font-size: 16px;
+    font-style: bold;
+    border: 1px solid black;
+}
+.Btn1:hover{
+    background-color: black;
+    color: white;
+}

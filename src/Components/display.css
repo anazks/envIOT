@@ -1,0 +1,92 @@
+.temp{
+    width: 30%;
+    height: 270px;
+    margin: auto;
+    background-color: rgb(233, 178, 178);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: white;
+    background-size: cover;
+    background-image: url(https://cdn.dribbble.com/users/32512/screenshots/5276094/smile_loader_by_gleb.gif);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.rate{
+    color: white;
+    width: 30%;
+    height: 270px;
+    margin: auto;
+    border-radius: 50px;
+    background-color: rgb(204, 151, 151);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-image: url(https://cdn.dribbble.com/users/32512/screenshots/5276094/smile_loader_by_gleb.gif);
+
+}
+.main{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.temp span{
+    font-size: 19px;
+    font-style: bold;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.hearRate{
+    background-color: rgb(232, 165, 165);
+    background-size: cover;
+}
+.overHeat{
+    width: 70%;
+    height: 120px;
+    background-color: red;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.anlyze{
+    width: 50px;
+    height: 30px;
+    background-color: yellow;
+    color: black;
+    text-decoration: none;
+}
+.main div{
+    margin-top: 20px !important;
+}
+.temprature{
+    width:90%;
+    height: 200px !important;
+    background-color: none !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+.temprature .items{
+    padding: 10px;
+    background-color: black;
+    width:100px;
+    height: 100px;
+}
